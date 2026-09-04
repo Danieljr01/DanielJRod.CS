@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: Daniel Rodriguez's Portfolio of Cybersecurity Projects
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
